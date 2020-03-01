@@ -1,0 +1,5 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "MIRAGE JS is a great way to mock data for responses to routes"
+}
